@@ -14,10 +14,13 @@
 
  **OS**
   - Windows10
+  
  **CPU**
   - AMD Ryzen7 1700
+  
  **GPU**
   - GeForce RTX1070
+  
  **メモリ**
   - 16GBのRAM
  
