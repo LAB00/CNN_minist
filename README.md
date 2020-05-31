@@ -1,6 +1,5 @@
-<div align="center">
+<br align="center">
 #専門演習2課題 畳み込みニューラルネットワークによる画像認識
-</div>
 
 <br>
 
